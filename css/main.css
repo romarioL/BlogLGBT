@@ -1,0 +1,25 @@
+body {
+	background-color: #e0f7fa;
+}
+
+.navigation {
+	background-image: url(../img/01.jpg);
+	height: 400px;
+}
+
+.nav-wrapper {
+	box-shadow: none;
+}
+
+.brand-logo {
+	color: black;
+}
+
+.row {
+	margin-top: 15px;
+}
+
+.contact-link {
+	padding: 15px;
+	color: #e57373;
+}
